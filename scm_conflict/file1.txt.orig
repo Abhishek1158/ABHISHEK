@@ -2,5 +2,4 @@ this is the initial line in master
 <<<<<<< HEAD
 this line is added in master again 
 =======
-This line is added in branch_1
 >>>>>>> branch_1
